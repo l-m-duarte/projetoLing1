@@ -10,7 +10,9 @@ namespace SistemaCadastro
 {
     internal class ConectaBanco
     {
-        MySqlConnection conexao = new MySqlConnection("server=localhost; user id=root; password=123; database=bd_bandas");
+        MySqlConnection conexao = new MySqlConnection("server=localhost; port=3307; user id=root; password=123; database=bd_bandas");
+        //como esclareci no README.MD, neste primeiro momento, eu somente estou desenvolvendo como atividade em vez de ser o projeto independente
+        //e com isso usei o mesmo BD disponibilizado, mas dei um nome diferente para ter mais organização em meu computador.
         public string mensagem;
 
         public bool insereBanda(Banda novaBanda)
