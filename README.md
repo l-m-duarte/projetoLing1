@@ -1,1 +1,1 @@
-Encontra-se aqui somente a resolução das atividades EaD, em vez do programa do projeto de fato.
+Nesta primeira etapa, encontra-se aqui somente a resolução das atividades EaD, em vez do programa do projeto de fato. Planejamos primeiro acumular o conteúdo técnico para depois aplicarmos com base no tema de nosso trabalho.
